@@ -6,7 +6,6 @@ import ast
 import os 
 import shutil
 import markdown
-import sqlite3
 
 
 token = 'Токен телеграмм бота' #Telegram 
